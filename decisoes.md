@@ -1,8 +1,8 @@
 # Diário de Decisões e Conflitos
 
 Registre aqui:
-- **Arquivo/linhas** com conflito (aproximado).
-- **Causa** (ex.: alteração simultânea da mesma linha).
-- **Alternativas consideradas**.
-- **Decisão final** e **racional**.
-- **Quem resolveu** (A/B/C) e **data**.
+- titulo no html e cor primaria
+- alteração simultânea da mesma linha
+- junção dos dois
+- junção dos dois, por ser possivel.
+- A,B,C 24/9.
