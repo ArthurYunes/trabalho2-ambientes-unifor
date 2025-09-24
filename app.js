@@ -26,6 +26,6 @@ elToggleTheme.addEventListener("click", () => {
   document.documentElement.style.setProperty("--bg", state.dark ? "#0b1220" : "#f8fafc");
   document.documentElement.style.setProperty("--text", state.dark ? "#e2e8f0" : "#0f172a");
   document.documentElement.style.setProperty("--card", state.dark ? "#0b1220" : "#e2e8f0");
-  elTitle.textContent = state.dark ? "Mini App - Modo Escuro" : "Mini App - GitFlow";
+  elTitle.textContent = state.dark ? "Mini App - Modo Escuro" : "Erro Ocorrido!!!";
   elToggleTheme.setAttribute("aria-pressed", String(state.dark));
 });
